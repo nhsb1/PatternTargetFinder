@@ -1,5 +1,6 @@
 # PatternTargetFinder 
 =====================================================
+![screenshot1](https://cloud.githubusercontent.com/assets/12847315/16967815/0d3dc982-4dd9-11e6-9794-25355399e54b.jpg)
 PatternTargetFinder calculates the target price for an equity based on the high (-rh), and low (-rl) that you pass to it from the shell.  Outputting to the command line and clipboard.
 
 
