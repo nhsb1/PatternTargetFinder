@@ -1,5 +1,3 @@
-# PatternTargetFinder 
-
 ![screenshot1](https://cloud.githubusercontent.com/assets/12847315/16967815/0d3dc982-4dd9-11e6-9794-25355399e54b.jpg)
 
 =====================================================
